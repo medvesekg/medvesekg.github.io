@@ -1,0 +1,22 @@
+.projects-header {
+    text-align: center;
+}
+
+.main-container {
+    padding-top: 60px;
+}
+
+.img-icon {
+    width: 50px;
+    margin: 10px 8px;
+}
+
+
+.contact-text {
+    float: right;
+    font-size: 18px;
+}
+
+.my-projects .row {
+    margin-bottom: 30px;
+}
